@@ -1,0 +1,13 @@
+﻿id_evento;evento;categoria;local;data_evento;horario;preco_ingresso;capacidade_maxima;total_inscricoes;vagas_restantes;taxa_ocupacao_percentual
+1;Sinfonia Nordestina;Música;Theatro José de Alencar;2026-10-15;20:00:00;60.0;100;55;45;55.0
+2;Auto da Compadecida - Especial;Teatro;Cineteatro São Luiz;2026-10-22;19:30:00;45.0;80;40;40;50.0
+3;Mostra Fotográfica Luz do Ceará;Exposição;Centro Dragão do Mar;2026-11-05;10:00:00;0.0;150;75;75;50.0
+4;Noite do Chorinho e Samba;Música;Estação das Artes;2026-11-12;21:00:00;30.0;60;30;30;50.0
+5;Balé Clássico: O Lago;Dança;Theatro José de Alencar;2026-11-18;19:00:00;80.0;90;45;45;50.0
+6;Exposição Arte Urbana;Exposição;Caixa Cultural Fortaleza;2026-11-25;14:00:00;0.0;120;60;60;50.0
+7;Festival de Jazz de Dezembro;Música;Estação das Artes;2026-12-04;20:30:00;50.0;100;55;45;55.0
+8;Comédia Cearense em Cena;Teatro;Cineteatro São Luiz;2026-12-10;20:00:00;35.0;70;35;35;50.0
+9;Mostra Contemporânea de Dança;Dança;Centro Dragão do Mar;2026-12-14;18:30:00;25.0;50;25;25;50.0
+10;Concerto de Natal;Música;Theatro José de Alencar;2026-12-20;19:00:00;0.0;200;100;100;50.0
+11;Retrospectiva Cinema Nacional;Cinema e Audiovisual;Cineteatro São Luiz;2026-12-22;17:00:00;20.0;85;42;43;49.41
+12;Instalação Sonora e Visual;Exposição;Caixa Cultural Fortaleza;2026-12-28;15:00:00;15.0;40;20;20;50.0
