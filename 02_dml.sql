@@ -1,6 +1,6 @@
 CREATE SCHEMA IF NOT EXISTS agenda;
 SET search_path TO agenda, public;
-TRUNCATE TABLE inscricao, participante, categoria, local, evento RESTART IDENTITY CASCADE;
+-- TRUNCATE TABLE inscricao, participante, categoria, local, evento RESTART IDENTITY CASCADE;
 
 -- Inserindo 5 Categorias 
 INSERT INTO categoria (nome, descricao) VALUES
